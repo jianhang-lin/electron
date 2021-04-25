@@ -21,4 +21,7 @@ npm run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+url: http://localhost:8080/#/
+
+url: http://localhost:8080/#/?ws_no=WS01001&user=SP001
